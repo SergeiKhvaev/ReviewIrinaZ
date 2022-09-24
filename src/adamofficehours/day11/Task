@@ -1,0 +1,26 @@
+Interface
+DatabaseService
+ - addEmployee(Employee emp)
+ - deleteEmployee(Long id)
+ - Employee getEmployee(Long id)
+ - List<Employee> getAllEmployees()
+ - List<String> getAllEmployeeNames
+ - List<String> getUniqueNames
+
+Class
+ OracleDataBase
+ we will have static list
+ implement the methods
+
+Class
+ MySQLDatabase
+ we will have another list
+ implement the list
+
+
+Class
+
+ Employee{
+
+String name;
+Long eployeeId;

@@ -1,0 +1,28 @@
+1-We will create an employee class
+it will have only
+   -name
+   -id
+2- We will create one class which is EmployeeDatabase
+
+-we will create one list we will keep employees in that list
+- we will add employee to database (create an addEmployee() method)
+- we will delete the employee from database by using id
+- we will create a method for get the all employees
+- we will get the employee from the database which has same id from database
+
+3 - we will test it if it is working or not
+
+
+Home work
+
+create student class
+name
+id
+
+class - student dataBase
+create methods;
+-get all students;
+- get student name, which contains contains - (char ch - given char)
+- get students id is bigger then  (long id - given id)
+- delete student with (long id - given id)
+- delete student if name contains (char ch - given char)
